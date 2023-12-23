@@ -15,6 +15,22 @@
 - [Expo](https://expo.dev/)
 - [Axios](https://axios-http.com/docs/intro)
 
+<h2>🚀 Run the App</h2>
+
+- If you want to run the app in your phone, scan this qr code in the "Expo Go" app in your phone.
+
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <h3>IOS:</h3>
+        <img width="250" src="https://github.com/mucahittasan/E-Commerce-MERN/assets/88967412/1efe0f23-3e0f-4775-baa1-b92f42bd42dc" />
+    </div>
+    <div>
+        <h3>Android:</h3>
+        <img width="250" src="https://github.com/mucahittasan/E-Commerce-MERN/assets/88967412/22db5c93-8f2a-4988-9751-e71580896c5b" />
+    </div>
+</div>
+
+
 <h2> 🔍 Setup</h2>
 
 - Clone the project with **"git clone"**
