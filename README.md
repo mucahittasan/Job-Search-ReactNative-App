@@ -1,4 +1,4 @@
-<h1 align="center"> E Commerce | Stealim </h1>
+<h1 align="center"> Job Search App </h1>
 
 <div align="center">
   <img width="900" src = 'https://github.com/mucahittasan/E-Commerce-MERN/assets/88967412/965a3358-ebea-48e2-b5fa-fba702d04542' />
