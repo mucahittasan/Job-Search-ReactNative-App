@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "react-native-first-app",
-    "slug": "react-native-first-app"
+    "slug": "react-native-first-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "43bf2b28-c9a4-4270-a795-8e41748f3044"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/43bf2b28-c9a4-4270-a795-8e41748f3044"
+    },
+    "android": {},
+    "ios": {}
   }
 }
