@@ -17,7 +17,7 @@
 
 <h2>🚀 Run the App</h2>
 
-- If you want to run the app in your phone, scan this qr code in the "Expo Go" app in your phone.
+- If you want to run and see the app, scan this QR code in the "Expo Go" app in your phone.
 
 <div style="display: flex; justify-content: space-between;">
     <div>
